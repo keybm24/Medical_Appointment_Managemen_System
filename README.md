@@ -35,6 +35,5 @@ Desktop application developed in Java for the comprehensive management of medica
 ## Author
 
 Keilyn Barrantes — [GitHub](https://github.com/keybm24)
-5. Run the application from your IDE
 
-## 📁 Project Structure
+
