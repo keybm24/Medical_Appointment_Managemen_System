@@ -132,7 +132,7 @@ GestionCitasMedicas/
 
 | Login Screen | Doctor Registration | View Doctors |
 |---|---|---|
-| ![login](screenshots/login.webp) | ![Register](screenshots/doctor_registration.webp) | ![Doctors](screenshots/view_doctors.webp) |
+| ![login](screenshots/Login.webp) | ![Register](screenshots/doctor_registration.webp) | ![Doctors](screenshots/view_doctors.webp) |
 
 | Doctor Profile & Appointments | New Appointment |
 |---|---|
