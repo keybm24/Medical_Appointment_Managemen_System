@@ -128,15 +128,15 @@ GestionCitasMedicas/
 └── README.md
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 | Login Screen | Doctor Registration | View Doctors |
 |---|---|---|
-| ![Login](screenshots/Login.webp) | ![Register](screenshots/registro_medicos.webp) | ![Doctors](screenshots/vista_medicos.webp) |
+| ![Login](screenshots/login.webp) | ![Register](screenshots/doctor_registration.webp) | ![Doctors](screenshots/view_doctors.webp) |
 
 | Doctor Profile & Appointments | New Appointment |
 |---|---|
-| ![Profile](screenshots/perfil_medico.webp) | ![New Appointment](screenshots/nueva_cita.webp) |
+| ![Profile](screenshots/doctor_profile.webp) | ![New Appointment](screenshots/new_appointment.webp) |
 
 ---
 
